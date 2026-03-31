@@ -35,7 +35,7 @@ curl -sSL https://resource.fit2cloud.com/1panel/package/quick_start.sh -o quick_
 
 | Name | Features | Price | Link |
 |------|----------|-------|------|
-| **VPSVIP** | China-optimized | $5/mo | [Website](https://vpsvip.net) |
+| **VPSVIP** | VPS Reviews - Server benchmark and buying guide | [Website](https://vpsvip.net) |
 | **Vultr** | Hourly billing | $3.5/mo | [Website](https://vultr.com) |
 
 ---
