@@ -47,3 +47,7 @@ curl -sSL https://resource.fit2cloud.com/1panel/package/quick_start.sh -o quick_
 <p align="center">
   <a href="https://vpsvip.net">VPSVIP</a>
 </p>
+
+---
+
+> For more VPS & Clash tools, check out [Awesome VPS & Clash Tools](https://github.com/CG-spring/awesome-vps-clash-tools)
